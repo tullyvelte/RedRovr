@@ -1,8 +1,7 @@
 # RedRovr
-A Python, Mongo, Flask, Bootstrap web app for scraping Mars info
+#### A Python, Mongo, Flask, Bootstrap web app for scraping Mars info
 
-# Mission to Mars
-Goal was to build a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page.
+The goal was to build a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page.
 
 ## Scraping
 
